@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7be30cc2-1c0e-4076-998b-22976bcd23fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/.bin/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/bin/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/nil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/regex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/rng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/sha1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/v3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/v35.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/v4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/v5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-browser/version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/nil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/regex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/rng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/sha1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/v3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/v35.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/v4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/v5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/esm-node/version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/md5-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/nil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/regex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/rng-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/rng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/sha1-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/sha1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidNIL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidParse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidStringify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidValidate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidVersion.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidv1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidv3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidv4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/umd/uuidv5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/uuid-bin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/v3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/v35.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/v4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/v5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/dist/version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/server/node_modules/uuid/wrapper.mjs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1hUuUXbDQkZJmtsg9y7Kz2cnFFX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chat-app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7be30cc2-1c0e-4076-998b-22976bcd23fc" name="Default Changelist" comment="" />
+      <created>1600078007664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600078007664</updated>
+      <workItem from="1600078008725" duration="2648000" />
+      <workItem from="1600081437035" duration="908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="188" width="1039" height="737" key="SettingsEditor" timestamp="1600081420790">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="440" y="188" width="1039" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1600081420790" />
+  </component>
+</project>
