@@ -1,5 +1,7 @@
 import React,{ Component } from "react";
-import io from 'socket.io-client'
+import {USER_CONNECTED,LOGOUT} from "../Event";
+import io from 'socket.io-client';
+import LoginForm from "./LoginForm";
 
 require('dotenv')
 const socketUrl = `http://localhost:5000`
@@ -11,7 +13,8 @@ class Layout extends Component {
         super(props);
 
         this.state = {
-            socket:null
+            socket:null,
+            user:null
         };
     }
 
@@ -28,11 +31,24 @@ class Layout extends Component {
         this.setState({socket})
     }
 
+    setUser =(user)=>{
+        const { socket } = this.state;
+        socket.emit(USER_CONNECTED);
+        this.setState({user})
+    }
+
+    logout = ()=>{
+        const { socket } =this.state;
+        socket.emit(LOGOUT);
+        this.setStat({user:null})
+    }
+
     render() {
         const {title} = this.props;
+        const {socket} = this.state
         return(
             <div className="container">
-                {title}
+                <LoginForm socket={socket} setUser={this.setUser} />
             </div>
         );
     }
