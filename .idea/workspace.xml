@@ -22,8 +22,8 @@
     <list default="true" id="7be30cc2-1c0e-4076-998b-22976bcd23fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat-app/server/socketManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/chat-app/server/socketManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/chat-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-app/src/components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/chat-app/src/components/Layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-app/src/Factories.js" beforeDir="false" afterPath="$PROJECT_DIR$/chat-app/src/Factories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-app/src/components/LoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/chat-app/src/components/LoginForm.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600078007664</updated>
       <workItem from="1600078008725" duration="2648000" />
-      <workItem from="1600081437035" duration="4305000" />
+      <workItem from="1600081437035" duration="4404000" />
+      <workItem from="1600101303650" duration="2229000" />
     </task>
     <servers />
   </component>

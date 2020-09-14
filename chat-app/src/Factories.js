@@ -1,4 +1,4 @@
-const uuidv4 = require('uuid/v4');
+const { v4: uuidv4 } = require('uuid');
 
 const createUser = ({name=""} = {}) =>({
     id:uuidv4(),
@@ -6,7 +6,7 @@ const createUser = ({name=""} = {}) =>({
 })
 
 
-const createMessge = ({message="" , sender=""} = { }) => (
+const createMessage = ({message="" , sender=""} = { }) => (
     {
         id: uuidv4(),
         time: new Date(Date.now()),
@@ -21,7 +21,7 @@ const getTime = (date)=>{
 }
 
 
-const create = ({messages=[], name="Community", users=[]} = {})=>(
+const createChat = ({messages=[], name="Community", users=[]} = {})=>(
     {
         id:uuidv4(),
         name,
@@ -29,3 +29,9 @@ const create = ({messages=[], name="Community", users=[]} = {})=>(
         typingUsers:[]
     }
 )
+
+module.exports = {
+    createMessage,
+    createChat,
+    createUser
+}
